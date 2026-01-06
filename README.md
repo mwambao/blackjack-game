@@ -1,4 +1,4 @@
-# blackjack-game
+# Blackjack Game
 This is a blackjack game built using HTML, CSS and JavaScript.
 The main focus was on learning and implementing the following JS aspects:
 
